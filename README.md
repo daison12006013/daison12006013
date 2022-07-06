@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - 📫 How to reach me: daison12006013@gmail.com
 
-[![Daison's GitHub stats](https://github-readme-stats.vercel.app/api?username=daison12006013)](https://github.com/daison12006013)
+[![Daison's GitHub stats](https://github-readme-stats.vercel.app/api?username=daison12006013&show_icons=true)](https://github.com/daison12006013)
