@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daison Cariño, a filipino software engineer and currently working in Singapore as an expatriate, throughout my career I've worked with various companies it all started in Manila "Philippines" and eventually accepted an offer around year 2016 to work here in Singapore, I'm currently working as "Senior Software Engineer 2" at [Incube8 Pte.Ltd](https://incube8.sg/team/)
+I am Daison Cariño, a Filipino software engineer currently residing in Singapore as an expatriate. My professional journey has taken me through various organizations, with its inception in Manila, Philippines. In 2016, I embarked on a new chapter by accepting an employment opportunity here in Singapore. Presently, I hold the role of "Senior Software Engineer 2" at [Incube8 Pte.Ltd](https://incube8.sg/team/)
 
 - I’m actively working on these lists and other weird ideas
   - [SurrealDB Playground](https://surrealdb.daisoncarino.com)
