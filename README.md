@@ -1,20 +1,33 @@
-### Hi there 👋
+# Intro
 
-I am Daison Cariño, a Filipino software engineer currently residing in Singapore as an expatriate. My professional journey has taken me through various organizations, with its inception in Manila, Philippines. In 2016, I embarked on a new chapter by accepting an employment opportunity here in Singapore. Presently, I hold the role of "Senior Software Engineer 2" at [Incube8 Pte.Ltd](https://incube8.sg/team/)
+Hi there! I'm Daison Carino, a Filipino Software Engineer, currently residing in Singapore as an expatriate.
 
-- Opensource Projects
+## OpenSource and Contributions
+
+### Active
+
   - [Laravel Horizon - Cluster Support](https://github.com/daison12006013/laravel-horizon-cluster) [![Packagist Downloads](https://img.shields.io/packagist/dt/daison/laravel-horizon-cluster)](https://packagist.org/packages/daison/laravel-horizon-cluster/stats)
   - [SvelteKit Starter (nodejs)](https://github.com/daison12006013/sveltekit-starter)
+
+### Tools
+  - [SurrealDB Playground](https://surrealdb.daisoncarino.com)
+
+### Others
+
   - [Lucidfy (golang)](https://github.com/lucidfy/lucid)
   - [PHP Struct (php)](https://github.com/daison12006013/php-struct)
-- Tools I've been working on
-  - [SurrealDB Playground](https://surrealdb.daisoncarino.com)
-- Personal/Private Projects
   - [Game Bot (python) | private repository](https://github.com/daison12006013/pybot-rox)
 - Here are my useful gists!
-  - [Using Steam Deck as your device for web development](https://gist.github.com/daison12006013/c192e5c017262c90513dffcdd16339c4) 
+  - [Using Steam Deck as your device for web development](https://gist.github.com/daison12006013/c192e5c017262c90513dffcdd16339c4)
 
+### Stacks and Stats
 
-📫 How to reach me: daison12006013@gmail.com
+![](https://skillicons.dev/icons?i=laravel,go,nodejs,svelte,vuejs,react,jquery,angular,aws,lambda)
 
-[![Daison's GitHub stats](https://github-readme-stats.vercel.app/api?username=daison12006013&show_icons=true)](https://github.com/daison12006013)
+[![GitHub Streak](https://streak-stats.demolab.com?user=daison12006013&theme=swift&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=200&hide_current_streak=true&hide_longest_streak=true)](https://github.com/daison12006013) [![Daison's GitHub stats](https://github-readme-stats.vercel.app/api?username=daison12006013&show_icons=true)](https://github.com/daison12006013)
+
+---
+
+📫 How to reach me: `daison12006013@gmail.com`
+
+[![Contributions](https://komarev.com/ghpvc/?username=daison12006013&color=green)](https://github.com/daison12006013)
