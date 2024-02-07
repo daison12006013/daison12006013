@@ -17,12 +17,12 @@ Hi there! I'm Daison Carino, a Filipino Software Engineer, currently residing in
   - [Lucidfy (golang)](https://github.com/lucidfy/lucid)
   - [PHP Struct (php)](https://github.com/daison12006013/php-struct)
   - [Game Bot (python) | private repository](https://github.com/daison12006013/pybot-rox)
-- Here are my useful gists!
-  - [Using Steam Deck as your device for web development](https://gist.github.com/daison12006013/c192e5c017262c90513dffcdd16339c4)
+  - My Gists!
+    - [Using Steam Deck as your device for web development](https://gist.github.com/daison12006013/c192e5c017262c90513dffcdd16339c4)
 
 ### Stacks and Stats
 
-![](https://skillicons.dev/icons?i=laravel,go,nodejs,svelte,vuejs,react,jquery,angular,aws,lambda)
+![](https://skillicons.dev/icons?i=laravel,go,nodejs,svelte,vuejs,react,jquery,angular,aws)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=daison12006013&theme=swift&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=200&hide_current_streak=true&hide_longest_streak=true)](https://github.com/daison12006013) [![Daison's GitHub stats](https://github-readme-stats.vercel.app/api?username=daison12006013&show_icons=true)](https://github.com/daison12006013)
 
