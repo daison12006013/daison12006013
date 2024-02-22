@@ -14,8 +14,6 @@ Hi there! I'm Daison Carino, a Filipino Software Engineer, currently residing in
 
 ### Others
 
-  - [Lucidfy (golang)](https://github.com/lucidfy/lucid)
-  - [PHP Struct (php)](https://github.com/daison12006013/php-struct)
   - [Game Bot (python) | private repository](https://github.com/daison12006013/pybot-rox)
   - My Gists!
     - [Using Steam Deck as your device for web development](https://gist.github.com/daison12006013/c192e5c017262c90513dffcdd16339c4)
