@@ -9,15 +9,18 @@ Hi there! I'm Daison Carino, a Filipino Software Engineer, currently residing in
   - [Laravel Horizon - Cluster Support](https://github.com/daison12006013/laravel-horizon-cluster) [![Packagist Downloads](https://img.shields.io/packagist/dt/daison/laravel-horizon-cluster)](https://packagist.org/packages/daison/laravel-horizon-cluster/stats)
   - [SvelteKit Starter (nodejs)](https://github.com/daison12006013/sveltekit-starter)
 
+### My Gists!
+  - [[SteamDeck] - as your device for web development](https://gist.github.com/daison12006013/c192e5c017262c90513dffcdd16339c4)
+  - [[Javascript] & [Go] - Encrypt Payload and Decrypt Payload](https://gist.github.com/daison12006013/b8eff28902592c8e9f577874236f9e18)
+
 ### Tools
+
   - [GIT Flow](https://github.com/daison12006013/git-flow)
   - [SurrealDB Playground](https://surrealdb.daisoncarino.com)
 
 ### Others
 
   - [Game Bot (python) | private repository](https://github.com/daison12006013/pybot-rox)
-  - My Gists!
-    - [Using Steam Deck as your device for web development](https://gist.github.com/daison12006013/c192e5c017262c90513dffcdd16339c4)
 
 ### Stacks and Stats
 
