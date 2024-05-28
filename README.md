@@ -7,6 +7,7 @@ Hi there! I'm Daison Carino, a Filipino Software Engineer, currently residing in
 ### Active
 
   - [Laravel Horizon - Cluster Support](https://github.com/daison12006013/laravel-horizon-cluster) [![Packagist Downloads](https://img.shields.io/packagist/dt/daison/laravel-horizon-cluster)](https://packagist.org/packages/daison/laravel-horizon-cluster/stats)
+  - [Web Golang 101](https://github.com/daison12006013/web-golang-101)
   - [SvelteKit Starter (nodejs)](https://github.com/daison12006013/sveltekit-starter)
 
 ### My Gists!
