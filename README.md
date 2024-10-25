@@ -1,6 +1,6 @@
 # Intro
 
-Hi there! I'm Daison Carino, a Filipino Software Engineer, currently residing in Singapore as an expatriate.
+Hi there! I'm Daison Carino, a Filipino Software Engineer, currently working remotely, if you're looking for a Dev or someone to work with your product, please don't hesitate to reach out to me, here's my [LinkedIn](https://www.linkedin.com/in/daison-c-56319471/) 
 
 ## OpenSource and Contributions
 
