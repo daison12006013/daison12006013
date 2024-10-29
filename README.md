@@ -10,6 +10,10 @@ Hi there! I'm Daison Carino, a Filipino Software Engineer currently working remo
   - [Web Golang 101](https://github.com/daison12006013/web-golang-101)
   - [SvelteKit Starter (nodejs)](https://github.com/daison12006013/sveltekit-starter)
 
+### Company Knowledge Sharing
+  - [SQLc - your raw sql generator to your Go or Typescript](https://github.com/daison12006013/sqlc-presentation)
+  - [Golang - Intro to Golang](https://github.com/daison12006013/golang-presentation)
+  
 ### My Gists!
   - [[SteamDeck] - as your device for web development](https://gist.github.com/daison12006013/c192e5c017262c90513dffcdd16339c4)
   - [[Javascript] & [Go] - Encrypt Payload and Decrypt Payload](https://gist.github.com/daison12006013/b8eff28902592c8e9f577874236f9e18)
